@@ -1,5 +1,5 @@
 # TD1 :
-envoyer à macha.dacosta@gmail.fr
+envoyer à macha.dacosta@gmail.com
 
 Lister des requêtes possibles :
 
